@@ -1,4 +1,4 @@
-const revertString=require('./revertString')
+const revertString=require('../revertString')
 
 describe("revert string all tests", ()=>{
     test("is string revert ", ()=>{

@@ -1,4 +1,4 @@
-const getPercents=require('./getPercent')
+const getPercents=require('../getPercent')
 
 describe("getPercents all tests", ()=>{
     test("введены корректные значения", ()=>{
