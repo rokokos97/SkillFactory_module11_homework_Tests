@@ -1,0 +1,32 @@
+{
+  "name": "skillfactory_module11_homework",
+  "version": "1.0.0",
+  "description": "my first unit-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokokos97/SkillFactory_module11_homework.git"
+  },
+  "keywords": [
+    "[npm",
+    "test",
+    "unit]"
+  ],
+  "author": "Rostyslav Lisovyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokokos97/SkillFactory_module11_homework/issues"
+  },
+
+  "homepage": "https://github.com/rokokos97/SkillFactory_module11_homework#readme",
+
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
