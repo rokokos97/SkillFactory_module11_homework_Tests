@@ -4,6 +4,11 @@
 
 ## Testing
 
+## Need to do:
+
+- Task 1. Configure the JEST test environment.
+- Task 2. Select any implemented function from section "Function" JavaScript simulator:
+                                                        1. add function to the repository;
 ## Technologies:
 
 - HTML
